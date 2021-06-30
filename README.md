@@ -4,6 +4,7 @@ Repositório para o Projeto 04 de PG
 ## Pré-requisitos PP4:
 - Inclusão de pelo menos mais um objeto 3D
 
+## Requisitos:
 - Definição de pelo menos um ponto de luz
 - Tonalização dos objetos utilizando Phong ou Gouraud
 
